@@ -15,30 +15,30 @@ The DevOps learning path involves mastering key technologies such as Linux, Dock
 |      05 | 📖 Permissions of Files                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-permissions-of-files-270252)                               |
 |      06 | 📖 User Account Management                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-user-account-management-49)                                |
 |      07 | 📖 Your First Git Lab                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-your-first-git-lab-92739)                                    |
-|      08 | 📖 Clone a Repository                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-clone-a-repository-12707)                                    |
-|      09 | 📖 Create a New Repository                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-create-a-new-repository-12718)                               |
-|      10 | 📖 Create a New Branch                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-create-a-new-branch-12714)                                   |
-|      11 | 📖 Add Files to the Staging Area                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-add-files-to-the-staging-area-12761)                         |
-|      12 | 📖 View Current Status                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-view-current-status-12781)                                   |
-|      13 | 📖 Create a Git Commit                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-create-a-git-commit-12715)                                   |
-|      14 | 📖 Push Local Changes to Remote                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-push-local-changes-to-remote-12748)                          |
+|      08 | 📖 Clone a Repository (Lab)                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-clone-a-repository-lab-12707)                                |
+|      09 | 📖 Create a New Repository (Lab)                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-create-a-new-repository-lab-12718)                           |
+|      10 | 📖 Create a New Branch (Lab)                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-create-a-new-branch-lab-12714)                               |
+|      11 | 📖 Add Files to the Staging Area (Lab)                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-add-files-to-the-staging-area-lab-12761)                     |
+|      12 | 📖 View Current Status (Lab)                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-view-current-status-lab-12781)                               |
+|      13 | 📖 Create a Git Commit (Lab)                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-create-a-git-commit-lab-12715)                               |
+|      14 | 📖 Push Local Changes to Remote (Lab)                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-push-local-changes-to-remote-lab-12748)                      |
 |      15 | 📖 Your First Docker Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-your-first-docker-lab-92719)                              |
 |      16 | 📖 Accessing and Managing Docker Container            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-accessing-and-managing-docker-container-7770)             |
 |      17 | 📖 Custom Docker Images                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-custom-docker-images-8196)                                |
 |      18 | 📖 Mastering Docker Network Basics                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-mastering-docker-network-basics-8445)                     |
 |      19 | 📖 Docker Local Network                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-docker-local-network-16256)                               |
-|      20 | 📖 Managing Data in Containers                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-managing-data-in-containers-8106)                         |
+|      20 | 📖 Managing Data in Docker Containers                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-managing-data-in-docker-containers-8106)                  |
 |      21 | 📖 Docker Multi Stage Build                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-docker-multi-stage-build-8193)                            |
 |      22 | 📖 Your First Kubernetes Lab                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-your-first-kubernetes-lab-92733)                      |
-|      23 | 📖 Display Cluster Info                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-display-cluster-info-8426)                            |
-|      24 | 📖 Examine Nodes with Kubectl                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-examine-nodes-with-kubectl-9790)                      |
-|      25 | 📖 Kubernetes Client and Server Version               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-client-and-server-version-9197)            |
-|      26 | 📖 Running Containers in Pods                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-running-containers-in-pods-14998)                     |
+|      23 | 📖 Display Cluster Info (Lab)                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-display-cluster-info-lab-8426)                        |
+|      24 | 📖 Examine Nodes with Kubectl (Lab)                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-examine-nodes-with-kubectl-lab-9790)                  |
+|      25 | 📖 Kubernetes Client and Server Version (Lab)         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-client-and-server-version-lab-9197)        |
+|      26 | 📖 Running Containers in Pods (Lab)                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-running-containers-in-pods-lab-14998)                 |
 |      27 | 📖 Scaling and Managing Pods with Deployments         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-scaling-and-managing-pods-with-deployments-9675)      |
 |      28 | 📖 Networking Pods with Services                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-networking-pods-with-services-15815)                  |
 |      29 | 📖 Networking With Ingress on Kubernetes              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-networking-with-ingress-on-kubernetes-9681)           |
 |      30 | 📖 Isolating Workloads With Namespaces                | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-isolating-workloads-with-namespaces-9199)             |
-|      31 | 📖 Configuring Apps with Secrets                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-configuring-apps-with-secrets-8448)                   |
+|      31 | 📖 Configuring Apps with Secrets (Lab)                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-configuring-apps-with-secrets-lab-8448)               |
 |      32 | 📖 Storing Application Data with Persistentvolumes    | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-storing-application-data-with-persistentvolumes-9685) |
 |      33 | 📖 Your First Python Lab                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-your-first-python-lab-270256)                             |
 |      34 | 📖 Data Types and Conversion                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-data-types-and-conversion-290726)                         |
@@ -79,39 +79,39 @@ The DevOps learning path involves mastering key technologies such as Linux, Dock
 
 ## More Free Tutorials
 
-- [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
-- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
-- [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
-- [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
-- [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
-- [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
-- [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
-- [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
-- [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
-- [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
-- [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
